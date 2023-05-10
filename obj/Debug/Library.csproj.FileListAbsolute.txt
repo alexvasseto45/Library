@@ -1,0 +1,557 @@
+C:\Users\user\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\user\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\user\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.pdb
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Library.exe.config
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Library.exe
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Library.pdb
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.exe
+C:\Users\spect\Downloads\Library(2)\Library\Library\obj\Debug\Library.pdb
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Library.exe
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Library.pdb
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.exe
+C:\Users\Alex\Desktop\Alex Chitalov\Library(2)\Library\Library\obj\Debug\Library.pdb
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.exe
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.pdb
+C:\Users\Kaloyan\Desktop\Library\Library\Library\obj\Debug\Library.Presentation.FormBookInfo.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.Presentation.FormBookInfo.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.exe
+C:\Users\user\Downloads\Library1\Library\Library\Library\obj\Debug\Library.pdb
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.Presentation.FormBookInfo.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.exe
+C:\Users\Alex\Desktop\Final Version\Library1\Library\Library\Library\obj\Debug\Library.pdb
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.Presentation.FormBookInfo.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.exe
+C:\Users\user\Downloads\Library1 (1)\Library1\Library\Library\Library\obj\Debug\Library.pdb
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Remotion.Linq.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Buffers.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Interactive.Async.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Memory.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\Remotion.Linq.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Buffers.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Interactive.Async.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Memory.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.FormAccount.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.FormAddBooks.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.Presentation.FormBookInfo.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.FormLogin.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.FormMainMenu.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.FormSignUp.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.exe
+C:\Users\Alex\Desktop\Final Version\Library\Library\Library\obj\Debug\Library.pdb
